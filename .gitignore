@@ -1,0 +1,33 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Linux
+*~
+.directory
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS / Temp files
+*.tmp
+*.bak
+*.log
+
+# Claude / AI tools 工作产物（学员 fork 后跑出的报告默认不进 git）
+*.docx
+output/
+generated/
+
+# 但允许 examples 下的样例
+!examples/*.docx
