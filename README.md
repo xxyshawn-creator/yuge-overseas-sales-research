@@ -127,7 +127,7 @@ Copy-Item -Recurse claude-skill-overseas-sales-research\company-research "$env:U
 **场景 C · 面试求职准备**
 
 ```
-👤 我：下周三面试 FJ Dynamics 英国商用割草机销售岗，帮我做一份调研
+👤 我：下周三面试 FJ Dynamics 割草机销售岗，帮我做一份调研
 
 🤖 Claude：[报告产出 · 重点章节"五看 + 3 个面试发言洞察 + 3 个反问考察对方的问题"]
 ```
