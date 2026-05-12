@@ -1,13 +1,19 @@
 <div align="center">
 
+> 🎓 **雨哥出品** · 海外销售方法论金字塔「第 5 层 · 市场经营」AI Skill 化产物
+
 # Claude Skill · 海外销售公司调研（五看六定）
 
-**面向海外销售工作场景的公司调研 Claude Skill — 30 分钟产出五看六定标准报告。**
-**适用于客户拜访 · 代理商尽调 · 竞品分析 · 新市场进入 · 战略规划 · 求职面试 等多种场景。**
+**面向海外销售工作场景的公司调研 Claude Skill — 30 分钟产出五看六定标准报告**
+
+**👤 作者:[雨哥(雨哥聊海外销售)](AUTHOR.md) · 13 年海外销售实战 · 月销破亿团队搭建者**
+
+适用于客户拜访 · 代理商尽调 · 竞品分析 · 新市场进入 · 战略规划 · 求职面试 等多种场景。
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Claude Skill](https://img.shields.io/badge/Claude-Skill-FF6B35)](https://claude.com/claude-code)
 [![五看六定](https://img.shields.io/badge/方法论-五看六定-1f6feb)](docs/methodology-five-look-six-set.md)
+[![雨哥方法论](https://img.shields.io/badge/雨哥方法论-5层金字塔-ff4757)](AUTHOR.md)
 
 </div>
 
@@ -176,7 +182,28 @@ Copy-Item -Recurse claude-skill-overseas-sales-research\company-research "$env:U
 
 **先看再定** —— 没有市场洞察的策略是空中楼阁。
 
-📖 **方法论详细介绍**：[docs/methodology-five-look-six-set.md](docs/methodology-five-look-six-set.md)
+📖 **方法论详细介绍（含「华为原版 vs 雨哥改造版」对比）**:[docs/methodology-five-look-six-set.md](docs/methodology-five-look-six-set.md)
+
+---
+
+## 🏛️ 这个 Skill 在雨哥方法论体系里的位置
+
+本 skill 是 **雨哥海外销售方法论金字塔「第 5 层 · 市场经营」** 的 AI Skill 化产物。
+
+雨哥的完整方法论体系是 **5 层金字塔 + 2 个旁挂元能力** —— 对应海外销售从认知到打单到经营的全路径:
+
+| 层级 | 主题 | 工具弹药 |
+|---|---|---|
+| 第 1 层 · 认知底座 | 国际业务六重塔 · 海外销售 vs 外贸 · 识局-破局-抗压 | — |
+| 第 2 层 · 获客触达 | LinkedIn IP 六步法 · Cold Email 5-7 次序列 · Apollo / Sales Nav | — |
+| 第 3 层 · Sell-in 代理商开发 | P0-P9 全流程 · SPIN · MEDDIC · Upfront Contract · EU 86/653 法律风险 | — |
+| 第 4 层 · Sell-out 渠道赋能 | 四维赋能 · 代理商话题地图 15 维 · 串货治理 | — |
+| **第 5 层 · 市场经营** | **五看六定 · 战略屋 · 4P1S1C · 渠道终局图** | **👈 本 Skill** |
+| 旁挂 M1 · 面试作为销售 | 四层面试模型 · STAR 海外版 · 简历五维度美化 | — |
+| 旁挂 M2 · 英语 6 文化圈 | 14 场景训练 · 6 文化圈变体 · 150 词术语表 | — |
+
+> 💡 更多雨哥方法论内容,关注 **「雨哥聊海外销售」** 小红书 / 视频号 / 抖音 / LinkedIn。
+> 完整作者介绍 → [AUTHOR.md](AUTHOR.md)
 
 ---
 
