@@ -47,7 +47,7 @@
 | 🎯 旁挂 M1 · 面试作为销售 | 四层面试模型 · STAR 海外版 · 简历五维度美化 · 压力面专项 |
 | 🌐 旁挂 M2 · 英语 6 文化圈 | 14 场景训练 · 美/德/英/中东/日韩/东南亚拉美 6 文化圈变体 · 150 词术语表 |
 
-> **本 Skill (claude-skill-overseas-sales-research)** 是金字塔「第 5 层 · 市场经营」的 AI Skill 化产物。
+> **本 Skill (yuge-overseas-sales-research)** 是金字塔「第 5 层 · 市场经营」的 AI Skill 化产物。
 > 后续会陆续开源其他层的 skill,Watch / Star 这个 repo 跟进。
 
 ---
@@ -113,6 +113,6 @@
 
 ## 关于这个 Repo
 
-本 repo (claude-skill-overseas-sales-research) 是雨哥海外销售方法论金字塔的 **第一个开源 AI Skill**,后续会陆续开源其他层的 skill。
+本 repo (yuge-overseas-sales-research) 是雨哥海外销售方法论金字塔的 **第一个开源 AI Skill**,后续会陆续开源其他层的 skill。
 
 如果这个 skill 帮你拿到了 offer 或者跑通了海外市场,欢迎在小红书 @ 我让我知道 🙌

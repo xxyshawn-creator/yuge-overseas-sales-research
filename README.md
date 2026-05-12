@@ -50,18 +50,18 @@
 
 ```bash
 # Mac / Linux
-git clone https://github.com/xxyshawn-creator/claude-skill-overseas-sales-research.git
+git clone https://github.com/xxyshawn-creator/yuge-overseas-sales-research.git
 mkdir -p ~/.claude/skills/
-cp -r claude-skill-overseas-sales-research/company-research ~/.claude/skills/
+cp -r yuge-overseas-sales-research/company-research ~/.claude/skills/
 
 # 重启 Claude Code 后生效
 ```
 
 ```powershell
 # Windows（PowerShell）
-git clone https://github.com/xxyshawn-creator/claude-skill-overseas-sales-research.git
+git clone https://github.com/xxyshawn-creator/yuge-overseas-sales-research.git
 New-Item -ItemType Directory -Force -Path "$env:USERPROFILE\.claude\skills"
-Copy-Item -Recurse claude-skill-overseas-sales-research\company-research "$env:USERPROFILE\.claude\skills\"
+Copy-Item -Recurse yuge-overseas-sales-research\company-research "$env:USERPROFILE\.claude\skills\"
 ```
 
 ### 其他 Claude 平台
